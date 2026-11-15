@@ -1,0 +1,8 @@
+numpy==2.2.6
+onnxruntime==1.32.0
+tokenizers==0.22.2
+huggingface-hub
+scikit-learn
+scipy
+torch
+transformers

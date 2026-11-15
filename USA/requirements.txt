@@ -1,0 +1,6 @@
+# Development and optional HF/SentencePiece runtime backends.
+# The bundled tiktoken branch of main.py needs only the standard library.
+tiktoken==0.14.0
+regex==2026.11.9
+tokenizers==0.23.3
+sentencepiece==0.2.3
